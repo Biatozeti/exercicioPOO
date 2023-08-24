@@ -8,7 +8,6 @@ class Cachorro{
         this.nome = nome;
         this.raça = raça;
         this.idade = idade;
-        this.apresentar = 
 
     }
 

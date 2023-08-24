@@ -4,8 +4,6 @@ class Cachorro {
         this.nome = nome;
         this.raça = raça;
         this.idade = idade;
-        this.apresentar =
-        ;
     }
     apresentar() {
         return " oii, Em eu sou " + this.nome + " um " + this.raça + " de " + this.idade + " anos ";
